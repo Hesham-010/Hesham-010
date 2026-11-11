@@ -82,7 +82,7 @@ REST and GraphQL APIs on top of **PostgreSQL**, **MySQL** and **MongoDB**.
 
 | Role | Company | Focus |
 |------|---------|-------|
-| Backend Developer | **[Wz Gate](https://wzgate-dev.xyz/)** — freelance marketplace | NestJS, Redis, subscription plans, contracts & milestones, time tracking, real-time chat, wallet & payment gateway, admin dashboard |
+| Backend Developer | **[Wz Gate](https://jnh247.com/)** — live freelance marketplace (jnh247.com) | NestJS, Redis, subscription plans, contracts & milestones, time tracking, real-time chat, wallet & payment gateway, admin dashboard |
 | Backend Developer | **Snap Deal** | Microservices with Kafka, multi-role auth (customers/vendors/admins), Redis, Elasticsearch, WhatsApp API, AI product descriptions, Docker |
 | Backend Developer | **Made In** | Multi-vendor e-commerce on Laravel, admin dashboard, query optimization & caching, REST APIs for frontend teams |
 | Backend Developer (Intern) | **Cayan** | Laravel/MySQL multi-vendor store, notifications, SMS, media uploads, Google social login, roles & permissions |
