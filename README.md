@@ -141,18 +141,6 @@ commission tracking.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hesham-010&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesham-010&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hesham-010&hide_border=true&theme=github-dark" alt="Streak"/>
-</p>
-
----
 
 <p align="center">
   <b>Let's build something solid.</b><br/>
